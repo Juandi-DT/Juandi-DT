@@ -1,0 +1,3 @@
+- 👋 Hola soy @Juandi-DT
+- 👀 Me interesa el desarrollo web
+- 🌱 Actualmente estoy aprendiendo las diferentes tecnologias para ser un desarrolador Full Stack
